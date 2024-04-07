@@ -26,9 +26,10 @@ export default function Login() {
       projectId: "login-system-adf37",
       storageBucket: "login-system-adf37.appspot.com",
       messagingSenderId: "460531130054",
-      appId: "1:460531130054:web:5f1ab7066633cb719181c7",
-      measurementId: "G-GJ3EVTKV59"
+      appId: "1:460531130054:web:2f484eb480d791bd9181c7",
+      measurementId: "G-3C9T96SQF8"
     };
+    
 
     // Initialize Firebase
     const app = initializeApp(firebaseConfig);
